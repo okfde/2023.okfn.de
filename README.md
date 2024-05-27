@@ -1,4 +1,4 @@
-# Tätigkeitsbericht 2022
+# Tätigkeitsbericht 2023
 
 Jekyll-Seite, benutzt [okf-pub-theme](https://github.com/okfde/okf-pub) als Theme.
 
