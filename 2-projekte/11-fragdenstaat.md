@@ -103,7 +103,7 @@ Projektleitung: Arne Semsrott | Entwickler:innen: Stefan Wehrmeyer, Kara Engelha
   Spenden, Alfred Landecker Foundation, Luminate, Arcadia, Schöpflin Stiftung, European Climate Foundation, Wikimedia, sonstige
 
 
-# inhaltliche Schwerpunkte
+# Inhaltliche Schwerpunkte
 
 FragDenStaat wächst und entwickelt sich ständig weiter. Aktuelle Krisen und Konflikte zeigen, dass weder Demokratie noch der Zugang zu Informationen selbstverständlich sind.
 Deshalb kämpfen wir mit verschiedenen Mitteln für die Informationsfreiheit:
@@ -115,6 +115,8 @@ Da es bisher wenig frei zugängliche rechtswissenschaftliche Literatur im Bereic
 Unser Investigativ-Team konnte erneut mit dem *ZDF Magazin Royale* kooperieren und gemeinsam den gesamten Verlauf der rechtsextremen Chatgruppe „Itiotentreff“ von Frankfurter Polizisten veröffentlichen. In einer weiteren Folge konnten wir gemeinsam zeigen, wie eine kaum bekannte Organisation, das ICMPD, fernab der öffentlichen Kontrolle die europäische Migrationspolitik mitgestaltet.
 
 Auch von der Plattform gibt es Neuigkeiten. Kara hat im vergangenen Jahr die Leitung des Tech-Teams von Stefan übernommen, der jetzt für strategische Projekte verantwortlich ist. Und mit Denis haben wir auch einen neuen Sys-Admin gefunden, der uns seit Oktober tatkräftig unterstützt. Auch inhaltlich ist einiges passiert: Zivilgesellschaftliche Organisationen haben endlich eine bessere Sichtbarkeit auf FragDenStaat. Auf eigenen Profilen werden alle zugehörigen User:innen und gestellte IFG-Anfragen der Organisationen dargestellt. So kann verfolgt werden, für welche Dokumente sich beispielsweise *Sea-Watch* gerade interessiert. Neue Anfragen der Organisationen können per RSS-Feed abonniert werden. Mit der Veröffentlichung des Gemeinsamen Ministerialblatts (GMBl) haben wir außerdem einen sehr großen Dokumentenschatz gehoben. Das GMBl wird seit 1950 von Ministerien dazu genutzt, ihre neuen untergesetzlichen Regelungen – also z. B. Verwaltungsvorschriften, Verordnungen, Richtlinien oder Erlasse – bekannt zu machen. Doch musste man bislang für den Zugang zahlen. Wir finden das nicht richtig und stellen alle 2713 Ausgaben im Rahmen der FragDenStaat-Bibliothek zur Verfügung.
+
+### Wirkung
 
 # Output
 
@@ -131,8 +133,6 @@ Auch von der Plattform gibt es Neuigkeiten. Kara hat im vergangenen Jahr die Lei
 * Für die FragDenStaat-Bibliothek befreien wir öffentliche Informationen von Bezahlschranken und machen sie für alle systematisch zugänglich.
 
 * Veröffentlichung des neuen FragDenStaat-Songs „Fragen Klagen Haben“ und Vortrag beim Hackerkongress 37c3
-
-# Wirkung
 
 # Outcome
 
