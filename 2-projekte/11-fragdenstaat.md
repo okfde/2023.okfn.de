@@ -90,7 +90,7 @@ In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regieru
 
 Projektleitung: Arne Semsrott | Entwickler:innen: Stefan Wehrmeyer, Kara Engelhardt, Denis Witt, Max Kronmüller | Head of Operations: Judith Doleschal | Öffentlichkeitsarbeit: Leonie Gehrke, Isa Lachmann, Monica Phương Thúy Nguyễn,  Lea Pfau, Thomas Babyesiza | Lega-Team: Hannah Vos, Vivian Kube, Sebastian Sudrow, Philipp Schönberger mit Rechtsreferendar:innen Lara Grünberg, Manja Hauschild, Lennart Lagmöller | Investigativ-Team: Vera Deleja-Hotko, Aiko Kempen, Sabrina Winter | EU Büro: Luisa Izuzquiza, Gaby Jeliazkov mit studentischer Hilfskraft: Melek Bazgan | Bundesfreiwilligendienstleistende: Tiziana Saab, Tasha Akimi, Amata Iman Nisrin Pommeranz
 
-### ehrenamtliche Arbeit
+### Ehrenamtliche Arbeit
 
   ca. 400 h durch unsere fünf Moderator:innen sowie das ehrenamtliche Legal-Team mit sieben jungen Jurist:innen
   
