@@ -118,25 +118,23 @@ Das Netzwerk ➠[Code for All](https://codeforall.org), an dem wir mit Code for 
  
 # Output
 
-  * Im Jahr 2022 gab es 16 aktive OK-Labs in Deutschland, die sich mit ihren Gemeinden vernetzen
+*	2023 gab es 17 aktive OK Labs , die sich mit ihren Gemeinden vernetzten.
 
-  * In Kaiserslautern gründete eine Gruppe engagierter Ehrenamtlicher ein neues OK-Lab.
+*	In Flensburg gründete eine Gruppe engagierter Ehrenamtlicher ein neues OK-Lab.
 
-  * Mithilfe der neu angestellten Community-Redakteurin konnten wir vier Use Cases zum Anwendungspotenzial von offenen Daten dokumentieren, unter anderem zum Datenstandard OParl
+*	Unter dem Titel *Out in the Open* erschien 2023 wieder eine ➠[monatliche Blogreihe](https://codefor.de/blog/) auf codefor.de. Die Beiträge werden von ehrenamtlichen Expert:innen recherchiert und verfasst.
 
-  * Unter dem Titel Out in the Open erschien auch 2022 wieder eine ➠monatliche Blogreihe auf codefor.de. Die Beiträge werden von ehrenamtlichen Expert:innen recherchiert und verfasst.
-  
-  * Die OK-Labs vor Ort veranstalteten regelmäßige Austauschtreffen vor Ort und online.
-  
-  * Die OK-Labs berieten lokale Verwaltungen zum Nutzen von Open Data sowie zu gemeinwohlorientierter Digitalpolitik und Infrastruktur.
-    
-  * Im Netzwerk wurden zahlreiche Projekte umgesetzt, die den Nutzen von offenen Daten aufzeigen.
+*	Die OK Labs vor Ort veranstalteten regelmäßige Austauschtreffen vor Ort und online.
 
+*	Die OK Labs berieten lokale Verwaltungen zum Nutzen von Open Data sowie zu gemeinwohlorientierter Digitalpolitik und Infrastruktur.
 
+*	Im Netzwerk wurden zahlreiche Projekte umgesetzt, die den Nutzen von offenen Daten aufzeigen.
+
+*	Die Webseite in verbessertem Design spiegelt das aktuelle Selbstverständnis des Netzwerks wider.
 
 # Outcome
   
-Es gibt eine starke Civic Tech Community in Deutschland. Durch unsere Beispiele und unsere Forderungen werden Politik und Verwaltungen dazu angehalten, weitere Daten zu öffnen und ihre technische Infrastruktur nachhaltig und selbstermächtigt zu gestalten.
+Es gibt eine starke Civic-Tech-Community in Deutschland. Durch unsere Beispiele und unsere Forderungen werden Politik und Verwaltungen dazu angehalten, weitere Daten zu öffnen und ihre technische Infrastruktur nachhaltig und selbstermächtigt zu gestalten.
 
 # Impact
   
@@ -144,11 +142,11 @@ Durch unsere Bemühungen um Use Cases, Veröffentlichungen und Veranstaltungen w
     
 # Evaluation
   
-Weiterhin lassen sich die Folgen der Pandemie in einem Rückgang an ehrenamtlicher Beteiligung beobachten. Uns kommt im Netzwerk die Rolle der Unterstützerin und Enablerin zu: Diese Rollenverteilung, mit den Ehrenamtlichen als Tonangebende und der OKF als Verstärkerin ihrer Ideen, hat sich als ein sehr produktiv erwiesen.
+Wir beobachten ein langsames Wachstum der Aktivitäten im Netzwerk nach dem Rückgang während der Pandemie. Die Fähigkeit zur Selbstverwaltung der Community ist eine Stärke von Code for Germany, die es auszubauen lohnt.
 
 # Ausblick
 
-Für 2023 haben wir eine Überarbeitung des Selbstverständnisses des Netzwerks und ein Update der Webseite geplant. 
+Für 2024 wollen wir den Prozess zur Überarbeitung des Selbstverständnisses des Netzwerks abschließen und Aufgaben im Netzwerk gegebenenfalls neu verteilen.
 
 <br><br><br>
 
