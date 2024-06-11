@@ -45,11 +45,10 @@ Datum der Eintragung: 11.05.2011<br>
 **Gemeinnützigkeit – Angaben gemäß § 52 Abgabenordnung**<br>
 Datum des letzten Feststellungsbescheids: 13.09.2022<br>
 Ausstellendes Finanzamt: Finanzamt für Körperschaften I Berlin<br>
-Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft, Forschung und Förderung der Volks- und Berufsbildung sowie der Studentenhilfe 
+Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Student:innenhilfe, Allgemeine Förderung des demokratischen Staatswesens, Förderung des bürgerschaftlichen Engagements 
 
 **Arbeitnehmer:innenvertretung**<br>
 nicht vorhanden<br>
 
 **Mitgliedschaften**<br>
-Bundesnetzwerk Bürgerschaftliches Engagement<br>
-Bundesverband Deutscher Stiftungen<br>
+Bundesnetzwerk Bürgerschaftliches Engagement
