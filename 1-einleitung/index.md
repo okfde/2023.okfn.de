@@ -20,6 +20,6 @@ Unsere operative Projektarbeit weist wieder beeindruckende Erfolge auf. Leuchten
 
 Viel Spaß beim Lesen unseres Jahresberichts wünscht
 
-Euer Vorstand
+Euer Vorstand<br>
 *Kristina Klein, Gabriele C. Klug, Lea Gimpel, Felix Reda, Stefan Heumann*
 
