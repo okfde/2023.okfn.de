@@ -66,7 +66,7 @@ effect:
 Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch wird die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert. Um dies zu ermöglichen, treffen sich Freiwillige regelmäßig in ihren Städten in den Open Knowledge Labs (OK-Labs). Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
 
 
-# Was ist 2022 passiert?
+# Was ist 2023 passiert?
 
 ## Ressourcen
 
@@ -76,22 +76,21 @@ Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltig
 
 ### Budget
 
- **2022** <br>
+ **2023** <br>
+  Einnahmen: 63.635 € <br>
+  Ausgaben: 65.672 € <br>
+  davon Personalausgaben: 51.044 € <br>
+  davon Sachausgaben: 14.627 €
+
+  **2022** <br>
   Einnahmen: 79.118 € <br>
   Ausgaben: 66.014 € <br>
-  davon Personalausgaben: 38,972€ <br>
+  davon Personalausgaben: 38.972 € <br>
   davon Sachausgaben: 27.042 €
-
-  **2021** <br>
-  Einnahmen: 37.627 € <br>
-  Ausgaben: 50.623 € <br>
-  davon Personalausgaben: 39.952 € <br>
-  davon Sachausgaben: 10.671 €
 
 ### Personal
 
-Koordination: Sonja Fischbauer; Community-Redakteurin (Studentische Mitarbeiterin): Nora Titz
-
+Koordination: Sonja Fischbauer; Community-Redakteurin: Nora Titz
 
 ### ehrenamtliche Arbeit
 
@@ -99,7 +98,7 @@ ca. 200 Ehrenamtliche mit geschätzt 5.000 Stunden ehrenamtlicher Arbeit
   
 ### Partner:innen
 
-Code for All, nexus Institut
+Code for All
 
 ### Förderung
 
@@ -108,30 +107,13 @@ Deutsche Postcode Lotterie, Fonds Soziokultur, Spenden, sonstige
     
 # inhaltliche Schwerpunkte
 
-**Klima und Umwelt**
-Klima und Umwelt sind weiterhin ein Fokus vieler Projekte des Netzwerks. Im Rahmen einer Videoserie zu SDGs von Code for All präsentierte zum Beispiel das im Rahmen der Code for Germany Community entstandene Projekt ➠[Open Parliament TV](https://www.youtube.com/watch?v=LRj8z3FBz44&list=PL6kG8TTskjRPYPFnDg9KHPj2xcetb0YhL&index=5) einen Beitrag zur Stärkung der Demokratie.
+Das Hauptprojekt des Jahres war die vollständige Überarbeitung der **Website codefor.de**, dabei haben wir sowohl die Struktur der Website verändert als auch die Texte den Entwicklungen des Netzwerks angepasst. Für die Umsetzung lohnte es sich, Skills in der eigenen Community zu suchen: Anstatt Design und Texte an eine Agentur auszulagern, fanden sich dafür Ehrenamtliche mit Expertise und Kapazität. Das Ergebnis war sowohl im Produkt als auch im Prozess ein Erfolg. Die Website ist nun eine zutreffendere Abbildung der Code-for-Germany-Community und über den Blog und das Projektarchiv, lassen sich die meisten Ressourcen und die Arbeit von CFG leicht finden.
 
-Besonders aktiv sind auch die Ehrenamtlichen im OK Lab Karlsruhe. Seit 2022 betreiben sie ➠[einige Projekte](https://ok-lab-karlsruhe.de/projekte), die offene Daten und Klimaschutz verbinden. Sowohl Klimawatch als auch die CO2App verdeutlichen dabei den Nutzen dieser Verbindung durch Visualisierungen von regionalen Klimabilanzen. Bei der ➠[Community Convention des BMVU](https://ok-lab-karlsruhe.de/projekte/green-it/) im September stellten sie ihre Projekte vor.
+Im Januar haben wir einen Redaktionsplan entworfen und neben dem ehrenamtlich betriebenen monatlichen Blog-Format „Out in the Open“, die vierteljährliche Reihe **„Stimmen aus der Community“** etabliert. Ab März interviewten wir Community-Mitglieder zu ihrem Engagement bei CFG. So entsteht ein Bild der vielfältigen Menschen bei CFG, auch über die lokale Ebene hinaus. Bisher gibt es Interviews mit ➠[Klara](https://codefor.de/blog/stimmen-aus-der-community-klara-juhl/), ➠[Lukas](https://codefor.de/blog/stimmen-aus-der-community-lukas-himsel/) und ➠[Jannis](https://codefor.de/blog/stimmen-aus-der-comunity-jannis-r/). Außerdem haben wir das Projekt ➠[Klimawatch](https://okfn.de/blog/2023/04/klimawatch-b%C3%BCrgerliche-kontrolle-braucht-daten/), die ➠[hybride Veranstaltungsreihe](https://codefor.de/blog/hybride-vortragsreihe-im-ok-lab-berlin/) zu verschiedenen Datenthemen des OK Lab Berlin und den ➠[Code for Germany Summit](https://codefor.de/blog/das-war-der-community-summit-2023/) begleitet. Auch dem ➠[Smart-City Ranking](https://codefor.de/blog/gedanken-zum-smart-city-ranking/) von Bitkom haben wir ein Statement gewidmet. Abgesehen von den Hauptamtlichen Veröffentlichungen haben Menschen aus der Community auch tatkräftig mit ihren Erfahrungen in Ulm und Karlsruhe zu einer [Publikation](https://library.fes.de/pdf-files/bueros/stuttgart/20087-20230313.pdf) der Friedrich-Ebert-Stiftung zu Digitalem Ehrenamt beigetragen.
 
-**Netzwerk und Veranstaltungen**
-Wie jedes Jahr gab es auch 2022 den ➠[Open Data Day](https://opendataday.org/). Am 5. März fanden weltweit Aktionen statt, die Wissen und Bewusstsein zur Verwendung von Open Data schaffen. Auch in Deutschland gab es dazu zahlreiche Veranstaltungen, darunter eine Paneldiskussion zu Datensouveränität und Workshops zu Klimadaten, bei denen die Code for Germany Community beteiligt war.
+Auf lokaler Ebene passieren die meisten Aktivitäten des Netzwerkes. In 17 Labs bundesweit treffen sich einmal im Monat, manchmal häufiger, engagierte Menschen, um Themen der Offenen Daten- und Wissenslandschaft zu besprechen. In ➠[Flensburg](https://codefor.de/flensburg/) wurde ein neues Lab gegründet, für andere Labs gab es Auszeichnungen. Allerorts wurde gelernt, diskutiert, beraten und gecoded. Eine Niederlage musste das CFG-Netzwerk und die Open-Data-Community allerdings hinnehmen. ➠[In Ulm verlor das Verschwörhaus den Markenrechtsstreit gegen die Stadt](https://netzpolitik.org/2023/hackspace-in-ulm-verschwoerhaus-verliert-seinen-namen-an-die-stadt/). Genau so funktioniert die Wertschätzung von Ehrenamt natürlich nicht. Die Gruppe in Ulm ist nun umgezogen in das ➠[Temporärhaus](https://temporaerhaus.de/).
 
-
-Im Mai traf sich die Community auf der ➠[20. GPN](https://cfp.gulas.ch/gpn20/schedule/#2022-05-22) in Karlsruhe. Die GPN, kurz für Gulaschprogrammiernacht, ist ein Event des Entropia e. V. (CCC Karlsruhe). Hier wurde vom 19.-22.05.22 in Karlsruhe vorgetragen, gehackt und Gulasch vertilgt. 2022 war auch die Code for Germany Community vertreten. Am Samstag, den 21 Mai bot ein Panel zu Open Data und digitalem Ehrenamt einen Einstieg in das Code-for-Germany-Netzwerk, gefolgt von regem Austausch bei einem Community Meetup.
-
-Im Juni gründete eine lokale Gruppe von Ehrenamtlichen ein ➠[neues OK Lab in Kaiserslautern](https://codefor.de/blog/kickoff-kaiserslautern/), das eng mit der Stadtverwaltung zusammenarbeitet. Im Mittelpunkt des Kickoff Meetings stand das gemeinsame Kennenlernen. Die Ehrenamtlichen stellten zahlreiche Projekte aus den anderen OK Labs vor, die in Zukunft mit Daten aus Kaiserslautern zum Leben erweckt werden sollen und als Anregung für neue Projekte dienen.
-
-Am 3. Oktober kamen Ehren- und Hauptamtliche zum  ➠[Community Summit 2022](https://codefor.de/blog/recap-cfg-summit-22/) zusammen. Mit Teilnehmenden aus dem gesamten Bundesgebiet kam sogar ein klein wenig Einheitsstimmung auf an diesem deutschen Feiertag. Besprochen wurde unter anderem, wie sich Linked Open Data an Hand konkreter Beispiele vermitteln lässt. 
-
-**Beziehungspflege und Co-Creation**
-Besonders bewegt hat uns in diesem Jahr, dass wir noch stärker mit unseren Ehrenamtlichen in der Community als Gemeinschaft zusammengewachsen sind. Die menschlichen Verbindungen in unserem Netzwerk sind stärker geworden und das ist für uns ein großer Schatz. Das Verhältnis zwischen Haupt- und Ehrenamtlichen ist nicht immer leicht. Konträre Rollen und Erwartungen führen leicht zu Konflikten. Wir haben uns 2022 besonders bemüht, unsere Arbeit nicht nur für, sondern gemeinsam mit den Ehrenamtlichen zu gestalten. So haben wir z.B. das Rollenprofil unserer Community-Redakteurin zusammen erarbeitet und Ehrenamtliche in den Auswahlprozess der Bewerber:innen eingebunden. Im April stellten wir mit Nora Titz eine studentische Mitarbeiterin als Community-Redakteurin an, die vom Netzwerk mit offenen Armen empfangen wurde. Es ist bewegend zu sehen, wie die Qualität der Zusammenarbeit zwischen Haupt- und Ehrenamt im Verlauf des Jahres gewachsen ist.
-
-**Wissen aufbereiten**
-Durch die Unterstützung der neuen Community-Redakteurin konnten wir im Jahr 2022 vier Use Cases aufbereiten, die den Nutzen von offenen Daten darlegen. Die Code for Germany Community entwickelt seit Jahren Anwendungen und Datenstandards, welche der Verwaltung helfen könnten, ihre Ziele bezüglich Transparenz und Open Data zu erreichen. Ein Beispiel dafür ist der Datenstandard OParl. Wie Entwicklung und Übernahme in die Verwaltung ablaufen und welche Probleme dabei auftreten können, veröffentlichten wir im Dezember in einem ➠[Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2022/open-data-wie-ein-datenstandard-die-digitale-verwaltung-oeffnen-kann/).
-
-Unter dem Titel Out in the Open erscheint eine ➠[monatliche Blogreihe](https://codefor.de/blog/) auf codefor.de. Sie wird komplett von Ehrenamtlichen recherchiert, geschrieben und veröffentlicht. Sie soll Interessierten die wichtigsten Ereignisse aus dem Bereich Civic Tech und Open Data in Deutschland einordnen. Hier finden sich Analysen und Meinungen zu tagespolitischen digitalen Themen wie etwa dem Bundestransparenzgesetz, dem geplanten Dateninstitut, der Smart Country Convention und Dauerthemen wie dem sinkenden Grundwasserspiegel, Mobilität und Datenstorys.
-
-Im Herbst 2022 endete unser Beitrag zum Projekt ➠[Digitale Kommune](https://www.nexusinstitut.de/digitale-kommune-digitale-region-soziokulturelle-auswirkungen-durch-digitalisierung-und-kuenstliche-intelligenz/), für das wir seit 2019 mit dem nexus-Institut kooperiert hatten. In dem Projekt wurden Handreichungen zur Digitalisierung für Kommunen erarbeitet, die mittlerweile im Videoformat veröffentlicht wurden.
+Das Netzwerk ➠[Code for All](https://codeforall.org), an dem wir mit Code for Germany seit der Gründung des Projektes 2014 dabei sind, organisierte sich im Jahr 2023 neu. Dazu gab es einen großen Governance-Prozess von März bis September mit allen Beteiligten Code-for-Organisationen, an dem sich unsere Projektleitung als Repräsentation für Code for Germany beteiligte. Konkret ging es dabei um die Frage, welche Rolle die koordinierende Organisation Code for All in Zukunft haben sollte. Code for All ist als **internationales Netzwerk** für uns sehr wertvoll, weil darüber immer wieder interessante Verbindungen und Kontakte entstehen. Code for All organisierte bis 2023 jährlich den Code-for-All-Summit mit inspirierenden Beiträgen, an dem sich auch Menschen aus der ehrenamtlichen Code-for-Germany-Community beteiligten. Die OKF spielte als enge Sparringspartnerin des Code-for-All-Teams eine wichtige Rolle dabei, im Umstrukturierungsprozess mit den Erwartungen auf dem Boden zu bleiben und ehrlich über Herausforderungen zu sprechen, insbesondere Personalressourcen und Budget.
 
  
 # Output
