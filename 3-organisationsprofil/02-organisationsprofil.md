@@ -32,7 +32,6 @@ Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitgliede
  </table>
 
 <br>
-
 ### Personal 
 
 Geschäftsführerin ist weiterhin Dr. Henriette Litta (seit 2020). Das Team ist in diesem Jahr gewachsen und zählt nun 41 Personen (Vorjahr: 34). Im GF-Bereich haben wir den Bereich Buchhaltung etwas aufgestockt. Bei FragDenStaat kamen 2023 eine Journalistin, eine Campaignerin, eine Person für die Öffentlichkeitsarbeit sowie ein Systemadministrator neu ins Team. Bei Jugend hackt kam im Mai eine Projektmanagerin für die Koordination des Sommercamps dazu. Beim Prototype Fund wurden zwei Stellen aufgrund von Weggängen nachbesetzt (Begleitforschung, Öffentlichkeitsarbeit).
