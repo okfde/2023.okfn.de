@@ -8,9 +8,9 @@ visual:
     alt: Logo der OKF
 ---
 
-### Vereinsorgane, Geschäftsführung und Team 
+### Verein 
 
-Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitglieder. Unsere Mitgliederversammlung fand am 22.09.2022 erneut hybrid statt. Auf der Mitgliederversammlung wurden folgende Beschlüsse gefasst: Die Feststellung und das Einstellen des Jahresergebnisses; die Entlastung von Vorstand, Kassenwartin und Geschäftsführung; die Wiederwahl der Vorstandsmitglieder Kristina Klein, Gabriele C. Klug, Daniel Dietrich, Lea Gimpel, Stefan Heumann und Felix Reda; die Wahl der Vereinsmitglieder Maria Reimer und Mark Brough als Kassenprüfer:innen; die Bestätigung der Solidaris GmbH für die Durchführung der Wirtschaftsprüfung des Geschäftsjahres 2022. Geschäftsführerin ist seit 2020 Dr. Henriette Litta.
+Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitglieder. Unsere Mitgliederversammlung fand am 11.10.2023 erneut hybrid statt. Auf der Mitgliederversammlung wurden folgende Beschlüsse gefasst: Die Feststellung und das Einstellen des Jahresergebnisses; die Entlastung von Vorstand, Kassenwartin und Geschäftsführung; die Wahl der Vereinsmitglieder Maria Reimer und Leonard Wolf als Kassenprüfer:innen; die Bestätigung der Solidaris GmbH für die Durchführung der Wirtschaftsprüfung des Geschäftsjahres 2023.
 
 <table width="600">
   <tr>
@@ -26,59 +26,39 @@ Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitgliede
   </tr>
   <tr>
     <td>Beisitzer:innen</td>
-    <td>Daniel Dietrich, Lea Gimpel, Dr. Stefan Heumann, Felix Reda</td>
+    <td>Daniel Dietrich (bis 11.10.2023), Lea Gimpel, Dr. Stefan Heumann, Felix Reda</td>
   </tr>
  
  </table>
 
 <br>
 
-Unser Team ist in diesem Jahr gewachsen und zählt nun 34 Personen (Vorjahr: 27). Im GF-Bereich haben wir unsere Policy-Kapazitäten verstärkt, zunächst mit einem Praktikanten, dann mit zwei Projektmanager:innen. Eine Community-Redakteurin wurde bei Code for Germany eingestellt, um die Aktivitäten des Netzwerks besser zu verknüpfen. Bei FragDenStaat kamen in diesem Jahr ein Software-Entwickler, eine Researcherin, eine weitere Juristin und zwei Projektmanagerinnen für die Öffentlichkeitsarbeit neu ins Team. Bei Jugend hackt wechselte die Programmleitung. Ab März 2022 wurde das Programm von Nina Schröter und Anne Ware in Doppelspitze geleitet. Im Mai kam dann noch eine Eventmanagerin neu an Bord. Beim Prototype Fund wurde eine Elternzeitvertretung für ein Jahr für eine der beiden Programmleitungen eingestellt; darüber hinaus wurden zwei Vakanzen aus 2021 mit zwei neuen studentischen Hilfskräften nachbesetzt.
+### Personal 
 
-Die Lohnstruktur der OKF lehnt sich an den aktuell gültigen Tarifvertrag für den öffentlichen Dienst der Länder an. Die Geschäftsführung verdiente 2022 5.593,59 Euro (E14/S4); alle Projektleitungen verdienten 4.748,54 Euro (E13/S3).
+Geschäftsführerin ist weiterhin Dr. Henriette Litta (seit 2020). Das Team ist in diesem Jahr gewachsen und zählt nun 41 Personen (Vorjahr: 34). Im GF-Bereich haben wir den Bereich Buchhaltung etwas aufgestockt. Bei FragDenStaat kamen 2023 eine Journalistin, eine Campaignerin, eine Person für die Öffentlichkeitsarbeit sowie ein Systemadministrator neu ins Team. Bei Jugend hackt kam im Mai eine Projektmanagerin für die Koordination des Sommercamps dazu. Beim Prototype Fund wurden zwei Stellen aufgrund von Weggängen nachbesetzt (Begleitforschung, Öffentlichkeitsarbeit).
 
-### Interessenkonflikte / Verflechtungen
+Die Lohnstruktur der OKF lehnt sich an den aktuell gültigen Tarifvertrag für den öffentlichen Dienst der Länder an. Die Geschäftsführung verdiente 2023 5.593,59 Euro (E14/S4); alle Projektleitungen verdienten bei Vollzeitstellen 4.748,54 Euro (E13/S3). Im Berichtsjahr fand ein Review unserer Gehaltsstruktur statt. Ziel des Reviews war, alle bestehenden Regeln vollständig und transparent für alle zusammenzuführen. Neben kleinen Korrekturen führten wir auch neue Stufenwechsel ein, um Gehaltsanpassungen für Teammitglieder zu ermöglichen. Mit der neuen Übersicht unserer Gehaltsstruktur wollen wir unserem Anspruch gerecht werden, auch bei den Gehältern fair und transparent zu agieren. Seit 2023 erfassen wir zudem den unbereinigten Gender Pay Gap (2,7%).
 
-Sieben hauptamtliche Teammitglieder sind auch Vereinsmitglieder und damit stimmberechtigt in der Mitgliederversammlung als Aufsichtsorgan der OKF. Ihr Anteil macht jedoch nur einen geringen Anteil der Mitglieder (46) aus. Ebenfalls Vereinsmitglieder und daher stimmberechtigt sind die Vorstandsmitglieder. Sie sind ehrenamtlich tätig und erhalten keine Bezüge – weder Gehälter oder Aufwandsentschädigungen noch Sachbezüge. Kein Vorstandsmitglied arbeitet vertraglich für die OKF. Es gibt keine finanziellen, persönlichen oder rechtlichen Abhängigkeitsverhältnisse zwischen Vereins-, Vorstands- und Teammitgliedern und anderen an der Finanzierung der OKF beteiligten Organisationen. Es bestehen keine Verwandtschaftsverhältnisse innerhalb der Organisation.
+### Organisationsentwicklung
 
-Die OKF hat einen Verhaltenskodex (Code of Conduct), an dem die Organisation ihr Handeln ausrichtet. Dort sind die Prinzipien Überparteilichkeit, Unabhängigkeit, Finanztransparenz, Kooperation mit Partner:innen, die unsere Werte und Ziele teilen, verankert. Die Überwachung der Einhaltung und als Ansprechperson für Team und Vorstand obliegt der Ethikbeauftragten, an die sich jede:r wenden kann. Für den Vereinsvorstand gibt es eine gesonderte Geschäftsordnung, in der auch Compliance-Regeln, z.B. Karenzzeiten, enthalten sind.
+Im Juni 2023 haben wir als OKF eine ➠[Whistleblowing Policy](https://okfn.de/blog/2023/07/whistleblowingpolicy/) eingeführt, mit der wir uns zum Schutz von Menschen verpflichten, die erhebliches Fehlverhalten in unserer Organisation melden. Wir haben mit anderen NGOs (unter anderem Gesellschaft für Freiheitsrechte, LobbyControl, Transparency Deutschland) eine gemeinsame Meldestelle eingerichtet, an die Whistleblower:innen sich wenden können. In der Meldestelle arbeiten unabhängige Jurist:innen, die der Whistleblowing-Meldung nachgehen. Zusätzlich zur Whistleblowing Policy auf unserer Webseite haben wir für den internen Gebrauch in Team und Board eine detaillierte Verfahrensordnung ausgearbeitet, die beschreibt, wie Whistleblower:innen eine Meldung über erhebliches Fehlverhalten in der OKF machen können und wie die Meldung dann weiterbearbeitet wird.
 
+Eine Arbeitsgruppe konstituierte sich, um die Konzeption einer mehrjährigen **Diversity, Equity & Inclusion-Strategie** sowie konkrete Umsetzung von Maßnahmen zu besprechen. Eine kleine Gruppe an BPoC-Mitarbeiter:innen (BPoC = Black and People of Color) fand sich im Sommer durch Initiative aus den eigenen Reihen zusammen. Diese BPoC-Gruppe agierte wie eine *Employee Ressource Group*: Eine *Employee Ressource Group* besteht aus Mitarbeiter:innen in einer Organisation, die alle ein Merkmal teilen, aufgrund dessen sie systemische gesellschaftliche Diskriminierung erfahren. Eine solche Gruppe einzurichten bzw. deren Einrichtung zu fördern wird von DEI-Expert:innen empfohlen. (Quellen: Demanding More, Sheree Atchinson, 2021; Inclusion on Purpose, Ruchika Tulshyan, 2022). Vorschläge für Maßnahmen, die unsere BPoC-Gruppe betrafen, kamen aus der Gruppe selbst, und wurden mit Unterstützung der Organisationsentwicklerin geplant. Im Jahr 2023 lag unser Fokus auf der Etablierung und dem Zusammenfinden der BPoC-Gruppe und dem Empowerment ihrer Mitglieder. Es gab eine gemeinsame Aktivität für Teambuilding in Form des BPoC-Retreats im September. Ebenfalls im September organisierten wir eine dekoloniale Stadtführung im Afrikanischen Viertel in Berlin-Wedding zur deutsch-afrikanischen Kolonialgeschichte. Die Stadtführung war für das gesamte Team offen als Teil der regulären Arbeitszeit. Die Arbeit der vorangehenden Monate nahm im Herbst Form an in einem DEI-Leitbild für die OKF, das im November offiziell beschlossen und eingeführt wurde. Darin formulieren wir drei strategische Handlungsfelder, die unsere DEI-Arbeit der nächsten Jahre prägen sollen:
 
-### Neue Stabsstelle für Organisationsentwicklung
+1.	Wir wollen uns über Diskriminierung und unsere eigenen Privilegien weiterbilden. 
+2.	Wir wollen von Diskriminierung betroffene Personen empowern und Hürden abbauen.
+3.	Wir wollen dafür sorgen, dass unser Team und Board vielfältiger und inklusiver wird.
 
-Im Januar richteten wir eine eigene Rolle für Organisationsentwicklung ein, als Stabsstelle im Team der Geschäftsführung. Die Stelle wurde intern mit Sonja Fischbauer besetzt, die 2018 zur OKF kam und im Jahr 2021 als Communitystrategin agierte.
+Eine der Aufgaben unseres Vorstands ist es, die Arbeit der Geschäftsführung zu evaluieren. In der ersten Jahreshälfte entwickelten wir mit Input aus dem Team Kriterien und Instrumente für die **Aufgabenerfüllungsmessung der Geschäftsführerin**. Der Vorstand entwickelte daraus seine Evaluation.
 
-Im Rollenprofil verankerten wir:
+Uns erreichen oft Anfragen für neue Projekte, die von Auftraggeber:innen und Kooperationspartner:innen gleichermaßen an uns gestellt werden. Das Potenzial solcher Anfragen einzuschätzen, kostet Geschäftsführung und Projektleitungen viel Zeit. Im August entwickelten wir drei **Tools zur Risikoanalyse** bei der Anbahnung neuer Projekte, die den Entscheidungsprozess vereinfachen sollen.
 
-* Begleitung von Governanceprozessen (Governance-Modell, Zirkel, Entscheidungsstrukturen)
-* Schnittstelle zwischen Strategie und operativer Umsetzung
-* Weitentwicklung der Communitystrategie
-* Inhaltliche Konzeption des Teamretreats
-* Wissensmanagement, darunter Koordination des Jahresberichts
-* Organisationskoheränte Entwicklung neuer Projekte im Akquiseprozess
-* Sonderprojekte im Bereich Operations, z.B. Change Management für IT-Projekte
-* Mitglied im Personalentwicklungszirkel
+Gerade in aktivistischer Arbeit, für die man brennt, brennt man auch schnell aus. Hier versuchen wir als Organisation, vorzusorgen und unserem Team eine gute Struktur zu bieten. Im April veranstalteten wir für Team und Board eine halbtägige **Fortbildung zu Mental Health**. Im Workshop erhielten wir mehr Wissen zu den im Arbeitskontext am häufigsten auftretenden psychischen Belastungen und Erkrankungen und wie man sie erkennt. Im Mai führten wir eine **Sabbatical Policy** ein; eine Regelung für befristete Auszeit für alle, die seit zwei oder mehr Jahren bei der OKF angestellt sind. Im Juni fassten wir auf Initiative des Personalzirkels alle **Leistungen für Arbeitnehmer:innen** der OKF in einer Übersicht zusammen. Diese Übersicht ist seither Teil des Onboardings.
 
-#### Geglückter Umzug zur Nextcloud
+Im Juli war wieder unser beliebtes **Teamretreat** im Stechlin Institut in Brandenburg. In zwei Tagen besprachen wir strategische, organisationsübergreifende Themen. Der Kommunikationszirkel bereitete einen Workshop zu Vision und Kommunikationsstrategie der OKF vor. Unser Admin stelle die IT-Sicherheitsrichtlinie vor und beantwortete technische und andere Fragen dazu aus dem Team. An Tag zwei gab es eine Session zu Methoden der Entscheidungsfindung, ein entsprechendes Tool steht dem Team seither zur Verfügung. Zusätzlich gab es drei Monate nach der Fortbildung auch ein Follow up zum Thema Mental Health und wie wir schützende Maßnahmen bei uns umsetzen können. 
 
-Praktisch die gesamte Arbeit aller Mitarbeitenden der OKF passiert online, kollaborativ in cloudbasierten Dokumenten. Im Jahr 2022 migrierten wir die Strukturen, die zehn Jahre im Google Drive gewachsen waren, auf unsere eigene Nextcloud-Instanz. Für ein IT-Projekt dieser Tragweite ist es in Organisationen unserer Größe nicht unüblich, externe Beratung und Prozessmanagement anzukaufen. Wir schafften den Umzug mit eigenen Ressourcen. Der größte Erfolg in dieser Hinsicht ist jedoch, dass in diesem gravierenden Wechsel das Team generell positiv gestimmt war. Der Wechsel zu Nextcloud bedeutete für alle eine Umstellung, die zwar einige Verbesserungen brachte, in der jedoch auch gewohnte Features wegfielen. Dabei blieb das Team nicht immer euphorisch, jedoch stets konstruktiv und wohlwollend. Im Nextcloud-Umzugsteam, bestehend aus Organisationsentwicklerin und Systemadministrator, legten wir Wert auf transparente Kommunikation und schnelles Reagieren. Wir stellten für die erste Testphase eine Gruppe von engagierten Erst-User:innen zusammen, richteten eigene Kommunikationskanäle für Fehlermeldungen ein und sprachen offen über unsere Herausforderungen. So gestaltete sich ein Prozess, der unter anderen Bedingungen schnell zu Frust, Produktivitäts- und Stimmungseinbruch führt, in unserem Fall weitgehend reibungslos und konstruktiv.
+Die Konferenz **Global Gathering vom TeamCommunity**, ehemals Freedom of Information Festival, fand im September 2023 in Estoril statt und OKF-Mitarbeitende waren vor Ort dabei. Die dreitägige Konferenz in Portugal brachte Aktivist:innen im digitalen Bereich aus aller Welt zusammen. Für die OKF holten wir uns neue Impulse für Organizational Health und Personalentwicklung ein.
 
-#### Neues Projekt gut integriert
+Im Sommer 2023 haben wir angefangen, die **Ausstattung unserer Büroräume** zu modernisieren. 9 Jahre nach unserem Einzug in die Singerstraße und nach dem Ende der Coronazeit wollten wir das Büro an die Ansprüche und Wünsche der Teammitglieder anpassen. Unser Büro soll einladen zum gemeinsamen Arbeiten, zum Austausch und zur Kreativität. Verbesserungen beim Arbeitsschutz und höhere Funktionalität standen bei der Planung im Zentrum. Bis Jahresende erarbeiteten wir detaillierte Einkaufslisten, erledigten mehrere kleine und eine große Möbelbestellung. Den Löwenanteil unserer Büroverschönerung werden wir im Jahr 2024 umsetzen.
 
-Ob ein neues Projekt erfolgreich sein wird, wie gut es wirken kann und wie nachhaltig es ist, entscheidet sich zu einem Großteil schon während der Planung. Die Erfahrungen der letzten Jahre haben uns gezeigt, dass es sich lohnt, viel Zeit zu investieren, bevor wir ein neues Projekt in der OKF starten. Im Berichtsjahr entwickelten wir das neue Projekt Open Data in Verwaltungen mit der Stiftung Mercator. Zu diesem Thema gibt es viel historisches Wissen zu bisherigen geglückten und gescheiterten Maßnahmen in der OKF und in unserer Community. Dieses Wissen abzuholen, und in unsere Planung zu integrieren, erforderte viel Zeit und mehrere Kommunikationsschleifen. Die Stiftung Mercator war uns dabei eine ausgezeichnete Partnerin. Die fertige Projektskizze wurde letztendlich vom Entscheidungs-Jour-Fixe verabschiedet. Nach der langen Planung gingen die nachfolgenden Schritte schnell von der Hand. Die Projektinhalte und die neuen Rollen fügen sich nahtlos in die Organisation ein und die Community wirkt gerne mit.
-
-#### Operative Zirkel
-
-Im Berichtsjahr arbeiteten die Teammitglieder des Personalzirkels und die des Kommunikationszirkels an organisationsübergreifenden Themen. Der Community-Zirkel (intern auch AG Community genannt) löste sich nach erfüllter Mission planmäßig Anfang des Berichtsjahres auf, nachdem wir die Neuausrichtung unserer Arbeit mit Ehrenamtlichen verfestigt hatten. Community-Arbeit findet in den einzelnen Projekten statt, besonders bei Code for Germany führen wir die Themen des Community-Zirkels weiter (siehe Kapitel Projekte, Code for Germany). Den im Superwahljahr sehr aktiven Policy-Zirkel legten wir mit Anfang 2022 ebenfalls ruhend. Organisationsübergreifende Policy-Arbeit wurde im Geschäftsführungsbereich verankert (siehe Kapitel Einführung, Policy-Arbeit). 
-
-#### Verstärkter Austausch im Team 
-
-Eine Herausforderung unserer Organisation ist es, den stetigen Austausch zwischen den Projekten zu gewährleisten, die alle inhaltlich und strukturell autark arbeiten. Für solchen Austausch lassen sich Formate, Prozesse und Kanäle bereitstellen. Die Qualität des Austauschs steht und fällt allerdings mit der gelebten Kultur und den zwischenmenschlichen Verbindungen – Parameter, die sich leicht erkennen, aber schwer quantifizieren lassen. Im Berichtsjahr konnten wir beobachten, dass der Austausch zwischen den Projekten stärker wurde. Eine Rückeroberung des Büros nach Corona und der damit verbundene persönliche Kontakt ist ein möglicher Faktor dafür. Wir hatten 2022 auch mehr dezidierte Austauschformate: einschlägige Sessions auf dem Teamretreat oder der daraus entstandene neue OKF-Updates-Brunch. Die Formate tragen zur gestärkten gemeinsamen Identität bei, und wir beobachten kürzere Wege im Austausch zwischen den Projekten.
-
-#### Langfristige Entwicklungen 
-
-Erfolgreiche Organisationsentwicklung zeigt sich auf lange Sicht. Feedback zu Prozessen kommt unserer Erfahrung nach eher dann, wenn etwas nicht läuft – wenn alle zufrieden sind, ist es still. Während des Berichtsjahres war es teilweise schwer, Erfolge zu erkennen. Hier lohnte es sich für uns, 1. einzelne Maßnahmen laufend zu dokumentieren und 2. Entwicklungen über die Zeit zu beobachten, bei Reflexion in größeren Abständen. Beim Jahresrückblick zeigt sich, dass wir einiges geschafft haben.
-
-#### Ausblick
-
-Für das Jahr 2023 geplant haben wir 1. konkrete Maßnahmen zur DEI-Arbeit in der OKF; 2. Weiterführung des Chance Managements zum Umzug von Google Drive auf Nextcloud; 3. Stärkung des Teamretreats als zentraler Austauschraum; 4. Evaluierung des Governance-Modells, mit Fokus auf den Zirkeln.
+Ein weiteres Highlight kam zum Jahresende: Im Dezember 2023 gab es endlich wieder eine **große OKF-Weihnachtsfeier** bei uns im Büro - die erste seit 2019. Mit Bällebad, Karaoke und Dancefloor feierten wir mit 100 geladenen Gästen den Jahresausklang.
