@@ -24,18 +24,18 @@ Das Projekt läuft seit Frühjahr 2017
 Das Projekt ist nicht mit eigenem Budget ausgestattet. Die Betreuung erfolgt ehrenamtlich, lediglich für die Domain entstehen allgemeine Ausgaben.
 
 #### ehrenamtliche Arbeit
-Beteiligte: Constantin Müller, Maximilian Richt, Stefan Kaufmann, Walter Palmetshofer. Ab 2023: Jannis Redmann, Holger Bruch
+Beteiligte: Jannis Redmann, Holger Bruch
 
 #### Partner:innen
-Verschwörhaus e. V., Ehrenamtsnetzwerke um Open Data und Open Transport (v. a. transportkollektiv und radforschung)
+Temporärhaus e. V., Ehrenamtsnetzwerke um Open Data und Open Transport (v. a. transportkollektiv und radforschung)
 
 ### Inhaltliche Schwerpunkte
 
-Seit der Umsetzung der delegierten Verordnung der EU in nationales Recht werden die notwendigen Informationen wenigstens über den nationalen DELFI-Datensatz veröffentlicht. Diese Daten sind jedoch qualitativ fragwürdig, und bislang sind sie ohne erkennbaren Sinn oder Begründung nur mit unnötigen Hindernissen zugänglich. Zwar nehmen Vernetzung und Austausch zwischen Ehrenamt und öffentlichen Stellen weiter zu, und der Diskurs wächst nach wie vor in Breite wie auch Tiefe. Aufgrund der mangelnden Datenqualität bleibt die tatsächliche Nutzung dieser offenen Daten durch die öffentliche Hand selbst jedoch weit hinter den Möglichkeiten zurück.
+2023 übernahm eine neue Gruppe an Freiwilligen die Projektbetreuung. Schwerpunkt der Arbeit lag auf einer Übergabe, um den Fortbestand des Projektes zu sichern.
 
 ### Ausblick
 
-Wir werden die Brief- und Fax-Kampagne aufgrund der Entwicklungen der letzten Jahre 2023 abschließen und künftig auf die notwendigen Entwicklungen zu mehr Datenqualität, eigener Nutzung der Daten in Produktivprozessen durch die Bereitsteller:innen selbst und die Verfügbarkeit von Echtzeit-Informationen in offenen Formaten eingehen.
+Das Projekt soll auch 2024 weitergeführt werden.
 
 ### Website
 
