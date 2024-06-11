@@ -132,6 +132,8 @@ Auch von der Plattform gibt es Neuigkeiten. Kara hat im vergangenen Jahr die Lei
 
 * Veröffentlichung des neuen FragDenStaat-Songs „Fragen Klagen Haben“ und Vortrag beim Hackerkongress 37c3
 
+# Wirkung
+
 # Outcome
 
 Mit unserem neuen „Handbuch Informationsfreiheitsrecht“ und unsere FragDenStaat-Summer-School konnten wir Campaigner:innen aber auch jede:n Nutzer:in unserer Plattform weiter befähigen IFG-Anfragen effektiv für Recherchen zu nutzen und gegen mauernde Behörden vorzugehen. Die Teilnehmenden werden wiederum zu Multiplikatoren. Durch die neue Website für NGOs wird diese Arbeit auch sichtbar. Gewonnene Klagen haben zu Grundsatzurteilen geführt. Und mit dem Gegenrechtsschutz schufen wir neue Wege, für freie Informationen zu kämpfen. FragDenStaat wird immer mehr als vertrauensvolles Medium und starker Partner für gemeinsame Recherchen, aber auch für Hinweisgeber:innen wahrgenommen. Die erhöhte Reichweite durch spannende Veröffentlichungen und Aktionen führten auch zu neuen Interessierten und erhöhten Spendeneinnahmen.
