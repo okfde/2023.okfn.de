@@ -20,6 +20,13 @@ Zusammen mit den Organisationen AlgorithmWatch, der Gesellschaft für Freiheitsr
 #### Laufzeit
 Das Netzwerk besteht seit 2021.
 
+#### Budget 
+**2023**<br>
+Einnahmen: 48.002 €<br>
+Ausgaben: 40.029 €<br>
+davon Personalausgaben: 40.029 € <br>
+davon Sachausgaben: 0 €
+
 #### Personal 
 Henriette Litta und Christina Willems koordinieren die Aktivitäten.
 
@@ -30,12 +37,10 @@ AlgorithmWatch, Gesellschaft für Freiheitsrechte, Reporter Ohne Grenzen und Wik
 Stiftung Mercator
 
 ### Inhaltliche Schwerpunkte
-
-Im Jahr 2022 haben wir vier parlamentarische Frühstücke mit dem Digitalausschuss des Bundestages durchgeführt. Die Themen reichten vom Digital Services Act, dem Transparenzgesetz, Open Data, Gewaltschutz im Internet bis zur Chatkontrolle. Wir setzten uns für eine demokratische, offene, inklusive und transparente Digitalpolitik ein und fordern die strukturelle Einbindung, gleichberechtigte Teilnahme und aktive Mitgestaltung der Zivilgesellschaft.
+Die Themen der drei parlamentarischen Frühstücke im Jahr 2023 reichten von der Förderung des digitalen Ehrenamts, über das Digitale-Dienste-Gesetz bis hin zur Überwachungsgesamtrechnung. Im Austausch mit der Exekutive stellten wir die Vorteile von Zirkularität und Offenheit in Soft- und Hardware vor und diskutierten im kleinen Kreis mit den Staatssekretärinnen Dr. Franziska Brantner (*Bundesministerium für Wirtschaft und Klimaschutz*) und Christiane Rohleder (*Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz*) darüber. Wir setzten uns für eine demokratische, offene, inklusive und transparente Digitalpolitik ein und fordern die strukturelle Einbindung, gleichberechtigte Teilnahme und aktive Mitgestaltung der Zivilgesellschaft an der digitalen Transformation. Dazu veröffentlichten wir auch Stellungnahmen wie zur Datenstrategie sowie zur Engagementstrategie des Bundes und kritisierten in einem Gastbeitrag fehlende Fortschritte bei zentralen Versprechen aus dem Koalitionsvertrag. Unsere Positionen und Forderungen stellten wir an unserem gemeinsamen Stand auf der *re:publica* und bei unserem Netzwerkabend einer breiten Öffentlichkeit vor. Auf unserer Website können ab sofort auch alle Publikationen sowie ein Transparenzbericht gefunden und gelesen werden.
 
 ### Ausblick
-
-Unser regelmäßiges und bereits etabliertes Format eines parlamentarischen Frühstücks setzten wir fort. Zudem werden wir unsere Aktivitäten auf die exekutive Ebene ausweiten und unsere Website überarbeiten.
+Unser regelmäßiges und etabliertes Format eines parlamentarischen Frühstücks setzen wir fort. Auch 2024 werden wir mit einem gemeinsamen F5-Stand auf der re:publica vertreten sein, auf dem wir über unsere vielfältigen Themen informieren. Darüber hinaus weiten wir im Hinblick auf die anstehenden wichtigen Wahlen unsere Aktivitäten auf die EU- sowie auf die Länderebene aus und werden unsere Positionen in den öffentlichen Diskurs einbringen.
 
 ### Website
 
