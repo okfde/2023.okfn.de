@@ -13,7 +13,7 @@ visual:
 
 Zusammen mit den Organisationen AlgorithmWatch, der Gesellschaft für Freiheitsrechte, Reporter Ohne Grenzen und Wikimedia Deutschland haben wir 2021 das Bündnis F5 gegründet. Damit wollen wir unsere Wirkung jeweils gegenseitig verstärken und politische Forderungen gebündelt einbringen. Kern des Bündnisses ist ein parlamentarisches Format im Bundestag, um Wissen aus der digitalen Zivilgesellschaft ins Parlament zu bringen und diese Expertise sichtbarer zu machen.
 
-## Was ist 2021 passiert?
+## Was ist 2023 passiert?
 
 ### Ressourcen
 
