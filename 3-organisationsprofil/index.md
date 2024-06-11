@@ -11,7 +11,7 @@ visual:
 ## Allgemeine Angaben
 
 **Name**<br>
-Open Knowledge Foundation Deutschland e.V.
+Open Knowledge Foundation Deutschland e. V.
 
 **Sitz der Organisation gemäß Satzung**<br>
 Berlin
