@@ -89,7 +89,7 @@ Community Manager: Philip Steffan <br>
 studentischer Mitarbeiter: Ivan Botica <br>
 Bundesfreiwilligendienstleistende: Anton Melchert, Carl Koloska
 
-### ehrenamtliche Arbeit
+### Ehrenamtliche Arbeit
  
 über 8.000 Stunden
 
@@ -101,7 +101,7 @@ mediale pfade.org – Verein für Medienbildung; außerdem gibt es viele weitere
 
 Deutsche Bahn Stiftung, Sächsisches Staatsministerium für Kultus, Das Zukunftspaket (Bundesministerium für Familien, Senioren, Frauen und Jugend), Datev-Stiftung Zukunft, Robert-Rothe-Stiftung, Arnfried und Hannelore Meyer-Stiftung, Heidehof Stiftung, Projektfonds Medien und Bildung Hamburg, Zeit-Stiftung, außerdem Sponsorings und Spenden von Unternehmen sowie Spenden von Privatpersonen
 
-# inhaltliche Schwerpunkte
+# Inhaltliche Schwerpunkte
 
 2023 war für Jugend hackt ein besonderes Jahr, da wir unseren zehnten Geburtstag feiern konnten: Am 23. September sind wir nach zehn Jahren und 16 Tagen für eine Geburtstagsparty ins Jugendkulturzentrum Königstadt in Berlin zurückgekehrt, dort, wo einst alles mit dem ersten Event begann. Es war ein schöner Abend mit neuen und alten Weggefährt:innen, ehemaligen Teilnehmer:innen, unserem Jugendbeirat und allen, die Zeit und Lust hatten.
 
