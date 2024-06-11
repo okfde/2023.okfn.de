@@ -92,7 +92,7 @@ Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltig
 
 Koordination: Sonja Fischbauer; Community-Redakteurin: Nora Titz
 
-### ehrenamtliche Arbeit
+### Ehrenamtliche Arbeit
 
 ca. 200 Ehrenamtliche mit geschätzt 5.000 Stunden ehrenamtlicher Arbeit
   
@@ -105,7 +105,7 @@ Code for All
 Deutsche Postcode Lotterie, Fonds Soziokultur, Spenden, sonstige
 
     
-# inhaltliche Schwerpunkte
+# Inhaltliche Schwerpunkte
 
 Das Hauptprojekt des Jahres war die vollständige Überarbeitung der **Website codefor.de**, dabei haben wir sowohl die Struktur der Website verändert als auch die Texte den Entwicklungen des Netzwerks angepasst. Für die Umsetzung lohnte es sich, Skills in der eigenen Community zu suchen: Anstatt Design und Texte an eine Agentur auszulagern, fanden sich dafür Ehrenamtliche mit Expertise und Kapazität. Das Ergebnis war sowohl im Produkt als auch im Prozess ein Erfolg. Die Website ist nun eine zutreffendere Abbildung der Code-for-Germany-Community und über den Blog und das Projektarchiv, lassen sich die meisten Ressourcen und die Arbeit von CFG leicht finden.
 
