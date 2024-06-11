@@ -89,7 +89,7 @@ Der ➠[Prototype Fund](https://prototypefund.de/) erforscht und fördert Public
   Projektträger ist das Deutsche Zentrum für Luft- und Raumfahrt.
   
  
-# inhaltliche Schwerpunkte
+# Inhaltliche Schwerpunkte
 
 Wie bereits in den Jahren zuvor fanden im Jahr 2023 zwei themenoffene Förderrunden statt. In einer umfassenden ➠[Evaluation](https://www.bmbf.de/SharedDocs/Downloads/de/2023/231020-evaluationsbericht-prototype-fund.pdf?__blob=publicationFile&v=2) wurde der Prototype Fund durch die Technopolis Group auf seine Wirksamkeit untersucht. Dabei wurde die Fördermaßnahme als effektives Förderinstrument des Bundesministeriums für Bildung und Forschung eingestuft. Außerdem wurden im Rahmen der Begleitforschung zwei Trendberichte zu aktuellen Themen verfasst.
 
