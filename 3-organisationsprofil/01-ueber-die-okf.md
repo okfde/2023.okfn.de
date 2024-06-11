@@ -9,7 +9,7 @@ visual:
 ---
 ## Gesellschaftliche Vision
 
-Die OKF setzt sich dafür ein, dass unsere Demokratie gestärkt, das gesellschaftliche Miteinander gefördert wird und sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren. Wir streben nach einer offenen, inklusiven und gerechten Gesellschaft, in der Wissen für Alle frei verfügbar ist. Alle Menschen haben die Möglichkeit, einen souveränen Umgang mit digitalen Technologien zu erlernen. Digitale Technologien werden gemeinwohlorientiert entwickelt und sinnvoll eingesetzt. Die Lösung gesellschaftlicher Herausforderungen erfolgt in Kooperation zwischen den Sektoren; die Zivilgesellschaft ist gestärkt.
+Die OKF setzt sich dafür ein, dass unsere Demokratie gestärkt, das gesellschaftliche Miteinander gefördert wird und sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren. Wir streben nach einer offenen, inklusiven und gerechten Gesellschaft, in der Wissen für alle frei verfügbar ist. Alle Menschen haben die Möglichkeit, einen souveränen Umgang mit digitalen Technologien zu erlernen. Digitale Technologien werden gemeinwohlorientiert entwickelt und sinnvoll eingesetzt. Die Lösung gesellschaftlicher Herausforderungen erfolgt in Kooperation zwischen den Sektoren; die Zivilgesellschaft ist gestärkt.
 
 ## Politische Forderungen 
 
