@@ -4,7 +4,7 @@ chapter: 1.1
 title: Gegenstand des Berichts
 permalink: /einleitung/gegenstand/
 visual:
-    img: /assets/images/2022/gegenstand.png
+    img: /assets/images/2023/gegenstand.png
     alt: Illustration mit den Worten "Auf Basis des Social Reporting Standards"
 ---
 
