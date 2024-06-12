@@ -4,7 +4,7 @@ chapter: 1.3
 title: Policy Arbeit
 permalink: /einleitung/policy-arbeit/
 visual:
-    img: /assets/images/2022/werte.png
+    img: /assets/images/2023/werte.png
     alt: Illustration mit den Worten "Transparenz und Zugang und Teilhabe und digitale Kompeten und öffentliche Kontrolle"
 ---
 Auch im Jahr 2023 zeigten wir mit unseren diversen Projekten und Programmen, wie digitale Technologien zum Wohle der demokratischen Gesellschaft eingesetzt werden können und brachten uns lautstark und kompetent in viele gesellschaftliche Diskurse ein.
