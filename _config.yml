@@ -47,7 +47,8 @@ matomo: no
 
 # Build settings
 markdown: kramdown
-theme: okf-pub-theme
+#theme: okf-pub-theme
+remote_theme: okfde/okf-pub
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
