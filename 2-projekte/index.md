@@ -4,7 +4,7 @@ chapter: 2
 title: Projekte
 permalink: /projekte/
 visual:
-    img: /assets/images/2022/civictech.png
+    img: /assets/images/2023/civictech.png
     alt: Illustration zum Thema Civic Tech mit abstrakten Formen und Code-Schrift
 ---
 
