@@ -4,8 +4,8 @@ chapter: 1.2
 title: Highlights des Jahres
 permalink: /einleitung/highlights/
 visual:
-    img: /assets/images/2022/highlights-2022.jpg
-    alt: Foto vom Fruehlingsfest der OKF
+    img: /assetsimages/2023/2023-F5.jpg
+    alt: F5 Bündnisstand
 ---
 
 ### Ein scharfes Schwert gegen rechts
