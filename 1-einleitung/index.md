@@ -4,7 +4,7 @@ chapter: 1
 title: Einleitung 
 permalink: /einleitung/
 visual:
-    img: /assets/images/2022/vorwort.png
+    img: /assets/images/2023/vorwort.png
     alt: Illustration mit den Worten "Vorwort - Es gruesst der Vorstand."
 ---
 
