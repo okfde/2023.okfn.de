@@ -27,6 +27,6 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-gem "okf-pub-theme", "~> 0.2.0"
+gem "okf-pub-theme"
 
 gem "webrick", "~> 1.8"
