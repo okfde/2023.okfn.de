@@ -4,7 +4,7 @@ chapter: 3.2
 title: Organisationsprofil
 permalink: /organisation/profil/
 visual:
-    img: /assets/images/2022/OKF-logo.png
+    img: /assets/images/2023/OKF-logo.png
     alt: Logo der OKF
 ---
 
