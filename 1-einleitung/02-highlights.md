@@ -14,7 +14,7 @@ Wer von rechts abgemahnt oder verklagt wird – sei es wegen eines Artikels, ein
 ### Jugend hackt fährt mit 90 jungen Menschen zum Hacker:innen-Camp 
 Alle vier Jahre findet in Brandenburg Deutschlands größtes Camp für Hacker:innen statt. Jugend hackt war im Sommer auf dem *Chaos Communication Camp* dabei und hat dort das „Jugend-Village“ mit Übernachtung, Verpflegung und fünf Tagen Programm für Jugendliche aufgebaut. Rund 90 junge Menschen sind mit uns aufs Camp gefahren und haben die zahlreichen Workshops und Vorträge nicht nur genutzt, sondern auch selbst angeboten.
 
-### Prototype Fund bewertet und für gut befunden
+### Prototype Fund „Note: Sehr Gut!“
 Der Prototype Fund wurde im Jahr 2023 auf Herz und Nieren geprüft und durch die Technopolis Group als eine effektive und erfolgreiche Fördermaßnahme des Bundesministeriums für Bildung und Forschung eingestuft. Die zentralen Stärken des Prototype Fund, insbesondere der niedrigschwellige Bewerbungsprozess, trügen zu einer Stärkung des Open-Source-Ökosystems bei. Im Jahr 2023 wurden erneut zahlreiche Projektideen gefördert und bei zwei Demo-Days präsentiert.
 
 ### Von csv zu Fünf-Sterne — Barcamp zu Haushaltsdaten als Linked Open Data
