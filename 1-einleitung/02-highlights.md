@@ -4,7 +4,7 @@ chapter: 1.2
 title: Highlights des Jahres
 permalink: /einleitung/highlights/
 visual:
-    img: /assetsimages/2023/2023-F5.jpg
+    img: /assets/images/2023/2023-F5.jpg
     alt: F5 Bündnisstand
 ---
 
