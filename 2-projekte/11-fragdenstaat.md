@@ -5,8 +5,8 @@ title: FragDenStaat
 website: https://fragdenstaat.de
 permalink: /projekte/fragdenstaat/
 visual:
-    img: /assets/images/2022/FDS-2022.jpg
-    alt: Teamfoto von Frag den Staat 2022
+    img: /assets/images/2023/FDS_Brüssel.png
+    alt: Frag den Staat
     
 problem:
 - text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
