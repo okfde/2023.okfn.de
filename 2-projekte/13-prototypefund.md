@@ -5,8 +5,8 @@ title: Prototype Fund
 website: https://prototypefund.de
 permalink: /projekte/prototypefund/
 visual:
-    img: /assets/images/2022/PTF-2022.jpg
-    alt: Prototype Fund Logo Open Libre
+    img: /assets/images/2023/PTF.png
+    alt: Prototype Fund, VAYM Productions
     
 problem:
 - text: Digitale Innovation nutzt häufig nur wenigen und nicht der breiten Gesellschaft.
