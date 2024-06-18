@@ -25,7 +25,7 @@ Das Netzwerk besteht seit 2021.
 Einnahmen: 48.002 €<br>
 Ausgaben: 40.029 €<br>
 davon Personalausgaben: 40.029 € <br>
-davon Sachausgaben: 0 €
+davon Sachausgaben: 7.973 €
 
 #### Personal 
 Henriette Litta und Christina Willems koordinieren die Aktivitäten.
