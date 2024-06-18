@@ -5,7 +5,7 @@ title: Prototype Fund Hardware
 website: https://hardware.prototypefund.de/
 permalink: /projekte/prototype-fund-hardware/
 visual:
-  img: /assets/images/2022/PFH-2022.png
+  img: /assets/images/2023/hightlight_PFH_open_design.png
   alt: Logo Abwandlung von Prototype Fund Hardware
 ---
 
