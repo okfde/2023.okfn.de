@@ -5,7 +5,7 @@ title: Bündnis F5
 website: https://buendnis-f5.de/
 permalink: /projekte/bündnisF5/
 visual:
-    img: /assets/images/opengovernment/buendnis-f5.png
+    img: /assets/images/2023/F5 Logo.png
     alt: Logo des Bündnis F5
 ---
 
