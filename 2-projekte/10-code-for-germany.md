@@ -5,8 +5,8 @@ title: Code for Germany
 website: https://codefor.de
 permalink: /projekte/code-for-germany/
 visual:
-    img: /assets/images/2022/cfg-summit-2022.jpg
-    alt: Gruppenfoto vom Code for Germany Summit 2022
+    img: /assets/images/2023/Code for Germany Logo.png
+    alt: Code for Germany
 
 problem:
 - text: Die Civic-Tech-Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber bisher vorwiegend regional organisiert sind und keine Lobby haben.
