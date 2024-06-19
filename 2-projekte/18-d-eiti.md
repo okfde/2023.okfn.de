@@ -5,8 +5,8 @@ title: EITI - Extractive Industries Transparency Intitiative
 website: https://www.d-eiti.de/
 permalink: /projekte/d-eiti/
 visual:
-      img: /assets/images/opengovernment/eiti.png
-      alt: Logo EITI
+      img: /assets/images/2023/eiti.png
+      alt: EITI
 ---
 
 ### Das Projekt
