@@ -5,7 +5,7 @@ title: Farm Subsidy
 website: https://farmsubsidy.org/
 permalink: /projekte/farmsubsidy/
 visual:
-    img: /assets/images/opengovernment/farmsubsidy.jpg
+    img: /assets/images/2023/farmsubsidy.png
     alt: Foto zu Farm Subsidy
 ---
 
