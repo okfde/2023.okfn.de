@@ -5,7 +5,7 @@ title: Offene Verwaltungsdaten
 website: https://okfn.de/projekte/opendata/
 permalink: /projekte/offene-verwaltungsdaten/
 visual:
-      img: /assets/images/2022/OD-2022.jpg
+      img: /assets/images/2023/OD-2022.png
       alt: Logo Open Data
 ---
 
