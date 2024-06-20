@@ -4,7 +4,7 @@ chapter: 3
 title: Die Organisation
 permalink: /profil/
 visual:
-    img: /assets/images/opengovernment/buero.png
+    img: /assets/images/2023/OKF-logo.png
     alt: Logo der OKF
 ---
 
