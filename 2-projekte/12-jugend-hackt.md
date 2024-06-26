@@ -86,7 +86,6 @@ Mit Code die Welt verbessern – das ist seit 2013 das Ziel von Jugend hackt, ei
 Projektleiterinnen: Nina Schröter, Anne Ware <br>
 Projektmanagerinnen: Ragna Höfgen, Lisa Jahn<br>
 Community Manager: Philip Steffan <br>
-studentischer Mitarbeiter: Ivan Botica <br>
 Bundesfreiwilligendienstleistende: Anton Melchert, Carl Koloska
 
 ### Ehrenamtliche Arbeit
