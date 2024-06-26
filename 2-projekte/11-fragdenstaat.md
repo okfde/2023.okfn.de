@@ -88,7 +88,14 @@ In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regieru
 
 ### Personal
 
-Projektleitung: Arne Semsrott | Entwickler:innen: Stefan Wehrmeyer, Kara Engelhardt, Denis Witt, Max Kronmüller | Head of Operations: Judith Doleschal | Öffentlichkeitsarbeit: Leonie Gehrke, Isa Lachmann, Monica Phương Thúy Nguyễn,  Lea Pfau, Thomas Babyesiza | Lega-Team: Hannah Vos, Vivian Kube, Sebastian Sudrow, Philipp Schönberger mit Rechtsreferendar:innen Lara Grünberg, Manja Hauschild, Lennart Lagmöller | Investigativ-Team: Vera Deleja-Hotko, Aiko Kempen, Sabrina Winter | EU Büro: Luisa Izuzquiza, Gaby Jeliazkov mit studentischer Hilfskraft: Melek Bazgan | Bundesfreiwilligendienstleistende: Tiziana Saab, Tasha Akimi, Amata Iman Nisrin Pommeranz
+Projektleitung: Arne Semsrott<br>
+Entwickler:innen: Stefan Wehrmeyer, Kara Engelhardt, Denis Witt, Max Kronmüller<br>
+Head of Operations: Judith Doleschal<br>
+Öffentlichkeitsarbeit: Leonie Gehrke, Isa Lachmann, Monica Phương Thúy Nguyễn, Lea Pfau, Thomas Babyesiza<br>
+Lega-Team: Hannah Vos, Vivian Kube, Sebastian Sudrow, Philipp Schönberger mit Rechtsreferendar:innen Lara Grünberg, Manja Hauschild, Lennart Lagmöller<br>
+Investigativ-Team: Vera Deleja-Hotko, Aiko Kempen, Sabrina Winter<br>
+EU Büro: Luisa Izuzquiza, Gaby Jeliazkov mit studentischer Hilfskraft: Melek Bazgan<br>
+Bundesfreiwilligendienstleistende: Tiziana Saab, Tasha Akimi, Amata Iman Nisrin Pommeranz
 
 ### Ehrenamtliche Arbeit
 
