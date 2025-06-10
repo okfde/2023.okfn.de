@@ -13,7 +13,7 @@ Unabhängig, überparteilich, interdisziplinär und nichtkommerziell – eure Sp
 ·	politische Kampagnen im Sinne der Zivilgesellschaft 
 ·	Projekte zu freiem Wissen und digitaler Mündigkeit
 ·	die Infrastruktur, die unsere Arbeit trägt – von Serverkosten bis zur Miete 
-Unser Verein ist gemeinnützig anerkannt. Für Spenden bis 300 Euro reicht der Kontoauszug zusammen mit unserem vereinfachten Zuwendungsnachweis als Beleg. Über ➠unsere Website könnt ihr ganz einfach spenden! Vielen Dank! 
+Unser Verein ist gemeinnützig anerkannt. Für Spenden bis 300 Euro reicht der Kontoauszug zusammen mit unserem vereinfachten Zuwendungsnachweis als Beleg. Über ➠[unsere Website](https://okfn.de/spenden/) könnt ihr ganz einfach spenden! Vielen Dank! 
 
 ### Social Media Kanäle
 Folgt uns gerne auf unseren Social Media Kanälen, um stets unsere Arbeit mitzuverfolgen und mitzudiskutieren:<br>
