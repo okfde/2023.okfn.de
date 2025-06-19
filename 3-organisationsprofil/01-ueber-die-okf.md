@@ -18,8 +18,6 @@ Die OKF setzt sich dafür ein, dass unsere Demokratie gestärkt, das gesellschaf
 !	Nachhaltige Strukturen für eine gemeinwohlorientierte Digitalpolitik und souveräne Tech-Infrastruktur schaffen
 !	Bildung offen gestalten: Partizipative Bildungsstrukturen durchsetzen und lebenslanges Lernen ermöglichen
 
-## Unsere Themenschwerpunkte
-
 ## Selbstverständnis und Arbeitsweise
 
 Wir sind ein Trägerverein starker, bekannter Projekte mit eigenem Markenkern. Wir bündeln die Wirkung der einzelen Initiativen. Wir arbeiten Community orientiert. Wir arbeiten häufig zusammen mit mehr oder weniger festen Netzwerken von Freiwilligen. Das Streben nach Offenheit, Teilhabe und Transparenz ist auch Leitlinie für die Arbeit innerhalb unserer Organisation. Wir arbeiten kooperativ und gehen solidarisch, wertschätzend und vertrauensvoll miteinander um. Wir pflegen eine Arbeitskultur, in der konstruktives Feedback gegeben und angenommen werden kann.
