@@ -92,7 +92,7 @@ Projektleitung: Arne Semsrott<br>
 Entwickler:innen: Stefan Wehrmeyer, Kara Engelhardt, Denis Witt, Max Kronmüller<br>
 Head of Operations: Judith Doleschal<br>
 Öffentlichkeitsarbeit: Leonie Gehrke, Isa Lachmann, Monica Phương Thúy Nguyễn, Lea Pfau, Thomas Babyesiza<br>
-Lega-Team: Hannah Vos, Vivian Kube, Sebastian Sudrow, Philipp Schönberger mit Rechtsreferendar:innen Lara Grünberg, Manja Hauschild, Lennart Lagmöller<br>
+Lega-Team: Hannah Vos, Vivian Kube, Sebastian Sudrow, Philipp Schönberger mit Rechtsreferendar:innen Lara Grünberg, Manja Hauschild<br>
 Investigativ-Team: Vera Deleja-Hotko, Aiko Kempen, Sabrina Winter<br>
 EU Büro: Luisa Izuzquiza, Gaby Jeliazkov mit studentischer Hilfskraft: Melek Bazgan<br>
 Bundesfreiwilligendienstleistende: Tiziana Saab, Tasha Akimi, Amata Iman Nisrin Pommeranz
