@@ -5,7 +5,7 @@ title: FragDenStaat
 website: https://fragdenstaat.de
 permalink: /projekte/fragdenstaat/
 visual:
-    img: /assets/images/2023/FDS_Brüssel.png
+    img: /assets/images/2023/FDS_Bruessel.png
     alt: Frag den Staat
     
 problem:
